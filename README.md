@@ -1,7 +1,7 @@
 # Jogo do Número Secreto
 
 [![Status](https://img.shields.io/badge/status-concluído-brightgreen)](https://github.com/SEU-USUARIO/jogo-numero-secreto)
-[![GitHub license](https://img.shields.io/github/license/SEU-USUARIO/jogo-numero-secreto)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/SEU-USUARIO/jogo-numero-secreto)](https://github.com/lidimoura/Jogo-do-numero-secreto/blob/main/LICENSE)
 
 Um jogo simples e divertido para adivinhar o número secreto, desenvolvido durante o curso **Git e GitHub: compartilhando e colaborando em projetos** da [Alura](https://www.alura.com.br/).
 
